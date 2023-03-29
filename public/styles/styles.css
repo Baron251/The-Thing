@@ -1,0 +1,38 @@
+body{
+    background-color: grey;
+}
+
+.theButton {
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+/* Bodies of text  */
+p{
+    text-align: center;
+    color: white;
+}
+/* .infop{
+    align-self: ;
+    margin-right: 700px;
+}  */
+
+
+
+/* Images */
+.bingus{
+    display: flex;
+  justify-content: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
